@@ -1,0 +1,28 @@
+{
+  "name": "branch-prompt",
+  "version": "1.0.0",
+  "description": "simple terminal UI to swap current git branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shorinji/branch-prompt.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "prompt",
+    "switch"
+  ],
+  "author": "Fredrik Fall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shorinji/branch-prompt/issues"
+  },
+  "homepage": "https://github.com/shorinji/branch-prompt#readme",
+  "dependencies": {
+    "prompts": "^2.1.0"
+  }
+}
