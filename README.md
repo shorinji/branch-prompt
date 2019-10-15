@@ -10,4 +10,4 @@ $> npm install -g
 
 $> branch
 
-Select local branch to switch over to or ctrl-c to abort.
+Select local branch with up/down keys. Enter switches branch and ctrl-c aborts.
