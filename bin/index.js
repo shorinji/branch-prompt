@@ -5,7 +5,7 @@ const exec = require("child_process").exec;
 
 exec("git branch", (error, stdout) => {
   if (error) {
-    console.error(error);
+    console.error("Current directory is not under git version control")
     return;
   }
 
